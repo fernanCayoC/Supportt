@@ -365,8 +365,8 @@ img{
 }
 
 #typewriter{
-    margin-top: var(--mb-1);
-    margin-bottom: var(--mb-2);
+    margin-top: var(--mb-0-25);
+    margin-bottom: var(--mb-0-5);
 }
 
 .Typewriter__wrapper{
